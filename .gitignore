@@ -1,3 +1,6 @@
+# Eclipse
+.project
+org.eclipse.*.prefs
 # IntelliJ
 *.iml
 .idea/
